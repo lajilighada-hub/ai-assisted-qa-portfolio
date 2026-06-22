@@ -6,6 +6,8 @@
 
 Dieses Repository zeigt meine Arbeitsweise im **Quality Engineering** mit Fokus auf **KI-Assistenz**. Ich kombiniere strukturierte Testmethodik mit AI-Prompt-Engineering, um effizienter und gründlicher zu testen.
 
+Besondere Stärken: **Mehrsprachiges Testing** (DE, EN, FR, AR) inklusive RTL/Lokalisierung und **Security-Testing** (Authentifizierung, Session-Management).
+
 ### Tech Stack & Skills
 
 | Bereich | Tools / Methoden |
@@ -25,22 +27,32 @@ Dieses Repository zeigt meine Arbeitsweise im **Quality Engineering** mit Fokus 
 
 ```
 ai-assisted-qa-portfolio/
-+-- README.md                   <- Du bist hier
-+-- billing/                    <- Modul: Rechnungswesen
-|   +-- requirement.md          - Anforderungsspezifikation
-|   +-- ai-prompt.md            - KI-Prompts zur Testgenerierung
-|   +-- risk-analysis.md        - Risikoanalyse
-|   +-- test-cases.xlsx         - Testfälle (strukturiert)
-|   +-- defect-reports.md       - Gefundene Fehler
-+-- login/                      <- Modul: Login/Authentifizierung
++-- README.md
++-- billing/                         <- Rechnungswesen (Modul 1)
+|   +-- requirement.md
+|   +-- ai-prompt.md                 - KI-Prompts zur Testgenerierung
+|   +-- risk-analysis.md
+|   +-- test-cases.xlsx
+|   +-- defect-reports.md
++-- billing-cancellation/            <- Rechnungsstorno mit Gutschrift (Modul 4)
+|   +-- requirement.md
+|   +-- risk-analysis.md
+|   +-- test-cases.md                - 15 Testfälle + Testdaten + 3 Defects
++-- login/                           <- Login/Authentifizierung (Modul 2)
 |   +-- requirement.md
 |   +-- test-cases.xlsx
 |   +-- defect-reports.md
-+-- multilingual-registration/  <- Modul: Mehrsprachige Registrierung
++-- login-security/                  <- Account-Sicherheit (Modul 5)
+|   +-- requirement.md
+|   +-- test-cases.md                - 15 Testfälle: Login, Lockout, Reset, Timeout, Logout
++-- multilingual-registration/       <- Mehrsprachig (Modul 3)
 |   +-- requirement.md
 |   +-- localization-tests.xlsx
 |   +-- findings.md
-+-- traceability-matrix.xlsx    - Rückverfolgbarkeit aller Anforderungen
++-- multilingual-registration-v2/    <- DE/EN/FR/AR + RTL (Modul 6)
+|   +-- requirement.md
+|   +-- test-cases.md                - Zeichensatz, RTL, Pflichtfelder, Fehlermeldungen, Formate
++-- traceability-matrix.xlsx
 ```
 
 ---
@@ -52,6 +64,14 @@ ai-assisted-qa-portfolio/
 3. **Testdokumentation** – Strukturierte Testfälle in Excel/Markdown
 4. **Defect Tracking** – Funde dokumentieren, priorisieren, reporten
 5. **Traceability** – Jeder Testfall ist mit einer Anforderung verknüpft
+
+### Sprach-Kompetenz
+
+Dieses Projekt demonstriert mehrsprachiges QA-Know-how:
+- **Deutsch** – Anforderungsdokumentation, Testdaten
+- **Englisch** – Technische Doku, internationale Standards
+- **Französisch** – Lokalisierungstests, UI-Validierung
+- **Arabisch** – RTL-Testing, Zeichensatz, kulturelle Anpassung
 
 ---
 
