@@ -61,6 +61,4 @@ ai-assisted-qa-portfolio/
 - lajili.ghada@gmail.com
 - [GitHub](https://github.com/lajilighada-hub)
 
----
 
-*Made with love and AI*
