@@ -57,7 +57,7 @@ ai-assisted-qa-portfolio/
 
 ## 📬 Kontakt
 
-**Ghassen Ajili** – Elektroingenieur | QA & Test Automation | IoT
+**Ghada Ajili** – Elektroingenieurin | QA & Test Automation | IoT
 - 📧 ghassenlaajili6@gmail.com
 - 🌐 [GitHub Portfolio](https://github.com/Gastonitou/portfolio)
 
