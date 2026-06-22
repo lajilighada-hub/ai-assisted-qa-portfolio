@@ -1,10 +1,10 @@
 # AI-Assisted QA Portfolio
 
-> KI-gestutzte Qualitatssicherung – Strukturierte Teststrategien fur moderne Softwareprojekte
+> KI-gestützte Qualitätssicherung – Strukturierte Teststrategien für moderne Softwareprojekte
 
-## Uber dieses Portfolio
+## Über dieses Portfolio
 
-Dieses Repository zeigt meine Arbeitsweise im **Quality Engineering** mit Fokus auf **KI-Assistenz**. Ich kombiniere strukturierte Testmethodik mit AI-Prompt-Engineering, um effizienter und grundlicher zu testen.
+Dieses Repository zeigt meine Arbeitsweise im **Quality Engineering** mit Fokus auf **KI-Assistenz**. Ich kombiniere strukturierte Testmethodik mit AI-Prompt-Engineering, um effizienter und gründlicher zu testen.
 
 ### Tech Stack & Skills
 
@@ -30,7 +30,7 @@ ai-assisted-qa-portfolio/
 |   +-- requirement.md          - Anforderungsspezifikation
 |   +-- ai-prompt.md            - KI-Prompts zur Testgenerierung
 |   +-- risk-analysis.md        - Risikoanalyse
-|   +-- test-cases.xlsx         - Testfalle (strukturiert)
+|   +-- test-cases.xlsx         - Testfälle (strukturiert)
 |   +-- defect-reports.md       - Gefundene Fehler
 +-- login/                      <- Modul: Login/Authentifizierung
 |   +-- requirement.md
@@ -40,7 +40,7 @@ ai-assisted-qa-portfolio/
 |   +-- requirement.md
 |   +-- localization-tests.xlsx
 |   +-- findings.md
-+-- traceability-matrix.xlsx    - Ruckverfolgbarkeit aller Anforderungen
++-- traceability-matrix.xlsx    - Rückverfolgbarkeit aller Anforderungen
 ```
 
 ---
@@ -48,10 +48,10 @@ ai-assisted-qa-portfolio/
 ## Mein Ansatz: Mensch + KI
 
 1. **Requirement-Analyse** – Anforderungen verstehen und strukturieren
-2. **KI-Prompt-Engineering** – Gezielte Prompts fur Testfalle, Risiken und Szenarien
-3. **Testdokumentation** – Strukturierte Testfalle in Excel/Markdown
+2. **KI-Prompt-Engineering** – Gezielte Prompts für Testfälle, Risiken und Szenarien
+3. **Testdokumentation** – Strukturierte Testfälle in Excel/Markdown
 4. **Defect Tracking** – Funde dokumentieren, priorisieren, reporten
-5. **Traceability** – Jeder Testfall ist mit einer Anforderung verknupft
+5. **Traceability** – Jeder Testfall ist mit einer Anforderung verknüpft
 
 ---
 
@@ -60,5 +60,3 @@ ai-assisted-qa-portfolio/
 **Ghada Laajili** – Elektroingenieurin | QA & Test Automation | IoT
 - lajili.ghada@gmail.com
 - [GitHub](https://github.com/lajilighada-hub)
-
-
